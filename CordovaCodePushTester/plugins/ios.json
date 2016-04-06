@@ -1,0 +1,36 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "code-push": {
+            "PACKAGE_NAME": "io.cordova.myappba547e"
+        },
+        "cordova-plugin-code-push": {
+            "PACKAGE_NAME": "io.cordova.myappba547e"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "io.cordova.myappba547e"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "io.cordova.myappba547e"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "io.cordova.myappba547e"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "io.cordova.myappba547e"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.cordova.myappba547e"
+        },
+        "cordova-plugin-zip": {
+            "PACKAGE_NAME": "io.cordova.myappba547e"
+        }
+    },
+    "dependent_plugins": {}
+}
